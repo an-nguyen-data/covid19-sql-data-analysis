@@ -11,7 +11,7 @@ This project aims to analyze global Covid-19 data using SQL to uncover trends in
 - <a href="https://github.com/an-nguyen-data/covid19-sql-data-analysis/blob/main/covidprojectsql.sql">MySQLqueries<a/>
 
 ## Tableau Dashboard
-
+- <a href="[https://github.com/an-nguyen-data/covid19-sql-data-analysis/blob/main/covidprojectsql.sql](https://github.com/an-nguyen-data/covid19-sql-data-analysis/blob/main/Covid%20Dashboard.twbx)">Dashboard<a/>
 
 ## Project Insight
 - The highest infection rates were identified by comparing total cases to population, showing which countries were most affected relative to their size.
